@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: librarySystem
+  datasource:
+    url: jdbc:sqlserver://DESKTOP-2NAAU3F;databaseName=LibrarySystem
+    username: sa
+    password: 123456
+  server:
+    error:
+      include-message: always
